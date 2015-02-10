@@ -1,3 +1,5 @@
+
+//More self-descriptive variable names, such as miles, gallons..
 // Ayman Alghamdi
 import java.util.Scanner;
 
