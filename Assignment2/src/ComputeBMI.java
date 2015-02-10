@@ -1,3 +1,5 @@
+
+//OK. Program looks correct. Choose your variable names more descriptive. Some examples below.
 //Ayman Alghamdi
 import javax.swing.JOptionPane;
 
@@ -5,6 +7,8 @@ public class ComputeBMI {
 	public static void main(String[] args) {
 
 		double BMI, WinK, WinP, HinM, HinI;
+		
+		//instead of WinP, you can use weight, instead of HinI, you can use height.
 
 		WinP = Double.parseDouble(JOptionPane
 				.showInputDialog("Enter your weight in pounds. "));
